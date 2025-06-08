@@ -1,11 +1,14 @@
 *{
 font-family: 'Trebuchet MS', Arial, sans-serif;
 margin: 0;
-padding: 15px;
+padding: 1px;
 background-color: #777176ee;
 }
 
 header {
     text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+
 }
 
